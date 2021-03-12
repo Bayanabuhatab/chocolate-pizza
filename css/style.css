@@ -1,20 +1,32 @@
 
 
-h2, h3 {
-  margin: 0;
-  overflow: left;
-  text-align: left;
+  #delicious{
+
+    font-size: x-large;
+    font-weight: 600;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
-.icon {
-    display: inline-block;
-    margin-right: 10px;
+
+#best{
+  color: rgb(175, 172, 172);
+font-family: 'Pathway Gothic One', sans-serif;
+font-size: xx-small;
+letter-spacing: .2em;
+margin-left: 0px;
 }
-.textlogo {
-    display: inline-block;
+#logo{
+  
+  height: 3.5em;
+  display: inline-block;
 }
-.textlogo h3 {
-    color: gray;
-}
+#img-list{
+  float: right;
+  margin-right: 10px;
+  margin-top: 15px;
+
+
+} 
+
 header{
     border: 2px solid rgb(145, 131, 131);
     align-content: center;
@@ -64,6 +76,7 @@ header{
   #part2{
     border: 2px solid rgb(175, 133, 133);
     text-align: center;
+    margin-top: 8pt;
   }
   
   #bottomlogo{
